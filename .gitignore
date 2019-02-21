@@ -1,0 +1,13 @@
+.idea
+.pytest_cache
+
+*.pyc
+.ipynb_checkpoints
+*.wav
+
+/models
+vggish_model.ckpt
+vggish_pca_params.npz
+svmMusicGenre3MEANS
+svmMusicGenre3.arff
+svmMusicGenre3
